@@ -1,4 +1,4 @@
-https://github.com/BineetKeshari2005/C_G14_dvaCapstone.git
+https://drive.google.com/drive/folders/1yFEv2EhlXTy006MwUOuWF7xNzk6L4RU9?usp=sharing
 
 This dataset has 4 raw CSV files:
 - CA_youtube_trending_data.csv
