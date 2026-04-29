@@ -109,7 +109,7 @@ The four dashboards each express one leg of this story.
 ## 3. Dashboards Breakdown
 
 ### Dashboard 1 — What Creates Attention
-![Dashboard 1](image-1.png)
+![Dashboard 1](dashboardScreenShot/Dashboard-image-1.png)
 
 **Purpose:** Identify the structural and behavioural levers that allow a video to accumulate raw views. This is the "spark" stage — exposure before evaluation.
 
@@ -135,7 +135,7 @@ The four dashboards each express one leg of this story.
 ---
 
 ### Dashboard 2 — Attention Across Countries
-![Dashboard 2](image-2.png)
+![Dashboard 2](dashboardScreenShot/Dashboard-image-2.png)
 
 **Purpose:** Compare how attention behaves across the four markets. Volume leadership and engagement leadership can diverge — a single global strategy will miss those local signatures.
 
@@ -161,7 +161,7 @@ The four dashboards each express one leg of this story.
 ---
 
 ### Dashboard 3 — What Sustains Attention
-![Dashboard 3](image-3.png)
+![Dashboard 3](dashboardScreenShot/Dashboard-image-3.png)
 
 **Purpose:** Once a video is seen, does it provoke a response? This dashboard switches the unit of analysis from impressions to reactions, because most attention is shallow.
 
@@ -187,7 +187,7 @@ The four dashboards each express one leg of this story.
 ---
 
 ### Dashboard 4 — Attention Into Influence
-![Dashboard 4](image-4.png)
+![Dashboard 4](dashboardScreenShot/Dashboard-image-4.png)
 
 **Purpose:** Close the loop. Influence is the rarest outcome, and the unit of interest shifts from average behaviour to the tail of the distribution.
 
