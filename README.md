@@ -1,20 +1,16 @@
----
-
 | Field | Details |
 |---|---|
-| **Project Title** | YouTube Analytics Data Pipeline & Dashboard |
-| **Sector** | Social Media / Digital Marketing |
-| **Team ID** | C_G14 |
-| **Section** | C |
-| **Faculty Mentor** | Satyaki Sir |
-| **Institute** | Newton School of Technology |
-| **Submission Date** | 28-04-2026 |
-
----
+| Project Title | YouTube Analytics Data Pipeline & Dashboard |
+| Sector | Social Media / Digital Marketing |
+| Team ID | C_G14 |
+| Section | C |
+| Faculty Mentor | Satyaki Sir |
+| Institute | Newton School of Technology |
+| Submission Date | 28-04-2026 |
 
 | Role | Primary Responsibility | Name | GitHub |
 |---|---|---|---|
-| **Project Lead** | Repo setup, timeline management, submission compliance, and ensuring the team hits Gate 1. | Krish Garg | |
+| **Project Lead** | Repo setup, timeline management, submission compliance, and ensuring the team hits Gate 1. | Bineet Keshari | |
 | **Data Lead** | Dataset sourcing, raw data commit to GitHub, and owning the data dictionary in docs/. | Krish Garg | |
 | **ETL Lead** | Notebooks 01 and 02 — Python extraction and cleaning pipeline. | Krish Garg | |
 | **Analysis Lead** | Notebooks 03 and 04 — EDA and statistical analysis in Python | Srijan | |
