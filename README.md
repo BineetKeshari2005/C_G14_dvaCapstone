@@ -10,8 +10,8 @@
 
 | Role | Primary Responsibility | Name | GitHub |
 |---|---|---|---|
-| **Project Lead** | Repo setup, timeline management, submission compliance, and ensuring the team hits Gate 1. | Bineet Keshari | |
-| **Data Lead** | Dataset sourcing, raw data commit to GitHub, and owning the data dictionary in docs/. | Krish Garg | |
+| **Project Lead** | Repo setup, timeline management, submission compliance, and ensuring the team hits Gate 1. | Bineet Kesari | |
+| **Data Lead** | Dataset sourcing, raw data commit to GitHub, and owning the data dictionary in docs/. | Mishti | |
 | **ETL Lead** | Notebooks 01 and 02 — Python extraction and cleaning pipeline. | Krish Garg | |
 | **Analysis Lead** | Notebooks 03 and 04 — EDA and statistical analysis in Python | Srijan | |
 | **Visualization Lead** | Tableau dashboard design, publishing to Tableau Public, sharing URL and screenshots. | Bineet Kesari & MD Sajjan | |
